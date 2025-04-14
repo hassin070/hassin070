@@ -1,25 +1,75 @@
-<h1 align="center">Hi 👋, I'm Md Hassin Arman Nihal</h1>
-<h3 align="center">An Undergrad student at Bangladesh University of Engineering and Technology. Interested in ML in EEE. Signal Processing, Power Management .</h3>
+<h1 align="center">🌌 Hi 👋, I'm Md Hassin Arman Nihal</h1>
+<h3 align="center">🎓 EEE Undergrad @ BUET | ⚡ Signal & Power Systems | 🤖 ML Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassin070&label=Profile%20views&color=0e75b6&style=flat" alt="hassin070" /> </p>
-
-<p align="left"> <a href="https://twitter.com/nihal_rmcf" target="blank"><img src="https://img.shields.io/twitter/follow/nihal_rmcf?logo=twitter&style=for-the-badge" alt="nihal_rmcf" /></a> </p>
-
-- 📫 How to reach me **hassinarman070@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nihal_rmcf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nihal_rmcf" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hassin-arman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassin-arman" height="30" width="40" /></a>
-<a href="https://kaggle.com/hassinarman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hassinarman" height="30" width="40" /></a>
-<a href="https://fb.com/hassin.arman7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hassin.arman7" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hassin070&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <a href="https://twitter.com/nihal_rmcf"><img src="https://img.shields.io/twitter/follow/nihal_rmcf?label=Follow&style=social" alt="Twitter" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassin070&show_icons=true&locale=en&layout=compact" alt="hassin070" /></p>
+### 🧠 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassin070&show_icons=true&locale=en" alt="hassin070" /></p>
+I'm an aspiring Electrical and Electronic Engineer from **BUET** with a passion for blending **Machine Learning** into core **EEE domains** like **Signal Processing**, **Energy Systems**, and **Smart Grids**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassin070&" alt="hassin070" /></p>
+---
+
+### 🚀 Projects
+
+- 📰 [**Fake News Detector**](https://github.com/hassin070/fake-news-detector) — NLP-based classifier using TF-IDF + Logistic Regression
+- ⚡ **Smart Load Balancer (Ongoing)** — ML-based system for optimizing microgrid energy consumption
+- 🏠 **House Price Prediction** — Regression model with Kaggle's housing dataset
+
+---
+
+### 📚 Currently Exploring
+
+- PyTorch Deep Learning Fundamentals  
+- Signal Processing (MATLAB + Python)  
+- Research Publication Strategies (ICML/ICLR)  
+
+---
+
+### 📫 Reach Me
+
+- 📧 hassinarman070@gmail.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/hassin-arman) | [Kaggle](https://kaggle.com/hassinarman) | [Facebook](https://fb.com/hassin.arman7) | [Twitter](https://twitter.com/nihal_rmcf)
+
+---
+
+### 🧰 Tools & Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats (Dark Mode)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hassin070&show_icons=true&theme=radical" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassin070&layout=compact&theme=radical" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassin070&theme=radical" />
+</p>
+
+---
+
+### 🧭 Motto
+
+> _"Always curious, constantly learning."_
+
+---

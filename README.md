@@ -14,14 +14,6 @@ I'm an aspiring Electrical and Electronic Engineer from **BUET** with a passion 
 
 ---
 
-### 🚀 Projects
-
-- 📰 [**Fake News Detector**](https://github.com/hassin070/fake-news-detector) — NLP-based classifier using TF-IDF + Logistic Regression
-- ⚡ **Smart Load Balancer (Ongoing)** — ML-based system for optimizing microgrid energy consumption
-- 🏠 **House Price Prediction** — Regression model with Kaggle's housing dataset
-
----
-
 ### 📚 Currently Exploring
 
 - PyTorch Deep Learning Fundamentals  

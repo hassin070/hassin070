@@ -52,7 +52,7 @@ I'm an aspiring Electrical and Electronic Engineer from **BUET** with a passion 
 
 ---
 
-### 📊 GitHub Stats (Dark Mode)
+### 📊 GitHub Stats 
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hassin070&show_icons=true&theme=radical" />

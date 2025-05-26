@@ -1,4 +1,4 @@
-<h1 align="center">🌌 Hi 👋, I'm  Hassin Arman Nihal</h1>
+<h1 align="center">🌌 Hi 👋, I'm  Md Hassin Arman Nihal</h1>
 <h3 align="center">🎓 EEE Undergrad @ BUET | ⚡ Signal & Power Systems | 🤖 ML Explorer</h3>
 
 <p align="center">
@@ -25,7 +25,7 @@ I'm an aspiring Electrical and Electronic Engineer from **BUET** with a passion 
 ### 📫 Reach Me
 
 - 📧 hassinarman070@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/hassin-arman) | [Kaggle](https://kaggle.com/hassinarman) | [Facebook](https://fb.com/hassin.arman7) | [Twitter](https://twitter.com/nihal_rmcf)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/md-hassin-arman-nihal-890125344) | [Kaggle](https://kaggle.com/hassinarman) | [Facebook](https://fb.com/hassin.arman7) | [Twitter](https://twitter.com/nihal_rmcf)
 
 ---
 

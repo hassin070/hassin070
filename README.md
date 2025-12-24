@@ -1,4 +1,4 @@
-<h1 align="center">🌌 Hi 👋, I'm  Md Hassin Arman Nihal</h1>
+<h1 align="center">🌌 Hi 👋, I'm  Md Hassin A. Nihal</h1>
 <h3 align="center">🎓 EEE Undergrad @ BUET | ⚡ Signal & Power Systems | 🤖 ML Explorer</h3>
 
 <p align="center">
